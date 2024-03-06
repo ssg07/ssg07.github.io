@@ -1,1 +1,7 @@
-# ssg07.github.io
+# Data Scientist 
+
+### Education
+Bachelors
+
+### Work Experience
+Greenhouse
